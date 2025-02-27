@@ -8,7 +8,7 @@ interface TimerProps {
   isRunning: boolean;
   onTimeUp: () => void;
   timeRemaining: number;
-  setTimeRemaining: (time: number) => void;
+  setTimeRemaining: React.Dispatch<React.SetStateAction<number>>;
 }
 
 const Timer: React.FC<TimerProps> = ({ 

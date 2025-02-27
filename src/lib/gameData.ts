@@ -108,7 +108,7 @@ export const wordList: WordItem[] = [
   { word: "Great Barrier Reef", category: "Geography" },
   { word: "Taj Mahal", category: "Geography" },
   
-  // Famous People
+  // Famous People - Original entries
   { word: "Albert Einstein", category: "Famous People" },
   { word: "Leonardo da Vinci", category: "Famous People" },
   { word: "Beyoncé", category: "Famous People" },
@@ -123,7 +123,34 @@ export const wordList: WordItem[] = [
   { word: "Madonna", category: "Famous People" },
   { word: "Muhammad Ali", category: "Famous People" },
   { word: "Elon Musk", category: "Famous People" },
-  { word: "Marilyn Monroe", category: "Famous People" }
+  { word: "Marilyn Monroe", category: "Famous People" },
+  
+  // Famous People - New entries
+  { word: "Michael Jackson", category: "Famous People" },
+  { word: "Adele", category: "Famous People" },
+  { word: "Lady Gaga", category: "Famous People" },
+  { word: "Frida Kahlo", category: "Famous People" },
+  { word: "Walt Disney", category: "Famous People" },
+  { word: "Mahatma Gandhi", category: "Famous People" },
+  { word: "Stephen Hawking", category: "Famous People" },
+  { word: "Queen Elizabeth II", category: "Famous People" },
+  { word: "Martin Luther King Jr.", category: "Famous People" },
+  { word: "Leonardo DiCaprio", category: "Famous People" },
+  { word: "Meryl Streep", category: "Famous People" },
+  { word: "Pablo Picasso", category: "Famous People" },
+  { word: "Bill Gates", category: "Famous People" },
+  { word: "Isaac Newton", category: "Famous People" },
+  { word: "Bruce Lee", category: "Famous People" },
+  { word: "Cleopatra", category: "Famous People" },
+  { word: "Vincent van Gogh", category: "Famous People" },
+  { word: "Amelia Earhart", category: "Famous People" },
+  { word: "Neil Armstrong", category: "Famous People" },
+  { word: "Bob Marley", category: "Famous People" },
+  { word: "Whitney Houston", category: "Famous People" },
+  { word: "Princess Diana", category: "Famous People" },
+  { word: "Charlie Chaplin", category: "Famous People" },
+  { word: "Andy Warhol", category: "Famous People" },
+  { word: "Audrey Hepburn", category: "Famous People" }
 ];
 
 // Get random words from the word list
